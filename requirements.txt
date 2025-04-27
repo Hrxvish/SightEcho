@@ -1,0 +1,4 @@
+pyttsx3
+opencv-python
+google-cloud-vision
+cohere

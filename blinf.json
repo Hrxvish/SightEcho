@@ -1,0 +1,69 @@
+{
+  "type": "service_account",
+  "project_id": "blinf-76d2c",
+  "private_key_id": "74451490b2ce92743983884a66ded180610f56e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcsmUlmkTBrpv2\n2YLdYymlm24/pCZLWufgAfcnOGHwhFlRocLg0RVdY51iSowvNZaVnvFbBFRVX/e9\nF4MVtZxyIP8sHi7tkVr9EDlGRBXaHUuGSCOxNzJQrSO+STHmUVXMyrbnghavofwN\ncUYS+sTHXMHFiDomlnA5f9ESTvGtKXGmwBxNj1x2wh88c5UW7UjJRjnIWTAMZvD4\na+sU/MjYPlSR6o+4PsKBeZpYVbVW17H8Kt3msVQAhrEdw832lqLYbxflUNeoW95/\nFR48op7tPuky+jtUZBvBhlMZQwESzPfafDGuLjh30vJNaG2jd40dXPiOmmeE7GQg\ng8XNXj2pAgMBAAECggEAA2WT6LAkZvkjf2/Sfn0MMOW5Crpivzqv4NsuDRMgi8oU\nrrICeb5/XfEScltlfuiXzg1eLXzL9raGb6DbOiATGkxbXh/9ekmOvUJjjKgRO+aR\n0oeZ29+gULkmHfvm3LEp7ai9zqNmaj8cae6vdN3rug4jBoBBqw05dTeik+9Mt1YW\nvRUjXH60XW1MxJzbScNlzCQ7xA1O1WpsXTEFVSSVxYhiAZ6vNnp9rHJeYUoySYaK\nXjWE/JDNcb5KeeY9Gf5lHikGGrsvfxcSYErHl8wbMpGguadLv3YvK7/p7VW4WTDv\n0ewC3mkYF66udzHzhAL+UqV45svLaWxNXUEoBfEG4QKBgQDSR/QJigABtya5WsLH\n8YLI3TDtgNqfMriEo6c0OMV6jRHIbeSAHOF+1kSEfAR09ChdtPGj/e0dlF2wz1P+\n+tmAK/lsKvzhO7KjbfgvEyZCpOOROX84lrboJSA30mlGOjxcraqd+W8UwD5cZvnB\ntaUJk9pvwVzLY5puB3exKlHjIQKBgQC+w/60eZGRsY22hqx2hbhHhdWbOcy6evgT\n0z8JObCGjVmnB60OZtmajXHjQWqGDMDfWV31v469/BcDnV+ar0OlK7KUNPQESTH4\nNQVCWD4G7/GNN4EzP5L33F8HbtPXKWdKKXBZcLPJYCUctYBlfO/WyPioYwQLeqeB\n1YrDLyaRiQKBgF61M498TQZ4xAMlgqbk+n+XR+sgZtbe1EZBIxSdISxSDxlTjV+6\nIkGrJY76AFPgh7G0xkSTIFF7OjthFba4qm9U3vC958lVxt5esDIbkNbhRvFokQke\nsGCcIAekR+/uWLNxMHAYINSaxTt+0axSMHPA2NgOocmlIa++w0TTB7ChAoGAUy3i\nwY7AimaBBDV0vblQwN76ZNSvECDOStaxhbRB5Gl9zfbq3ny6JUnHfu/nIswszTaK\nYb1E4FIrNshIB4qkVEDZfQYZ4ESKJU/5GxSe9ydoi8rH6zCtRKYySWtps0e6Yfvv\noRAjVIs3o20Arz/q1ByNT97cxKSWpWYXO0Qz7QECgYB2EfoJvbcribWj6yOYH4JW\nJ+nu8V/cqw/EvHgKjPyqqNPuXvJPoIsH/Vo2E5y+8LJ1KGzr1IIm6Hpj+p2NnZ4e\nTpsYf6yU7tu05OqSXEM71M62tAqJuKK54Yx5I1syZbCg5/31hSSGCtVrOYdrT+Fu\nl0P+f4mF50CCAra2uiWqQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-gemini-service@blinf-76d2c.iam.gserviceaccount.com",
+  "client_id": "108258977524376466702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-gemini-service%40blinf-76d2c.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
