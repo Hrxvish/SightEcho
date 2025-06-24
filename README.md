@@ -32,7 +32,7 @@ SightEcho is an AI-powered smart goggle system designed to assist visually impai
 
 ## 👤 Roles and Team
 
-- **Vishal Singh** – Founder, Technical Head, and Full-Stack Developer  
+- **Vishal Yadav** – Founder, Technical Head, and Full-Stack Developer  
   Worked on idea, architecture, development, and deployment.
 
 ---
